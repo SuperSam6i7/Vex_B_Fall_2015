@@ -12,7 +12,7 @@
 #pragma competitionControl(Competition)
 #pragma autonomousDuration(20)
 #pragma userControlDuration(120)
-//dank meme
+//dank meme are true
 #include "Vex_Competition_Includes.c"
 void pre_auton()
 {
